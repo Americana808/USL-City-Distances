@@ -127,8 +127,8 @@ cityData = {
         "timezone": "America/New_York"
     },
     "RGV": {
-        "lat": 55.9533,
-        "lon": 3.1883,
+        "lat": 26.22,
+        "lon": 98.12,
         "timezone": "America/Chicago"
     },
     "SAC": {
