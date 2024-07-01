@@ -1,1 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
+cff-version: 1.2.0
+title: USL City Distances
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Marco
+    email: mportillo1605@gmail.com
+    family-names: Portillo
+repository-code: >-
+  https://github.com/Americana808/USL-City-Distances/tree/main
+abstract: >-
+  Calculations of distances between cities in the USL league
+  for Excel spreadsheets using a code implementation of the
+  Haversine Formula.
+keywords:
+  - Haversine Formula
+  - Distance Algorithm
